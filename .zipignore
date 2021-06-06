@@ -1,0 +1,10 @@
+node_modules/*
+.git/*
+*.swp
+.zipignore
+yarn.lock
+.gitignore
+.eslintrc.js
+package.json
+build/*
+screenshots/*
